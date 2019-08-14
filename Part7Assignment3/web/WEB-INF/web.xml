@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>MovieServlet</servlet-name>
+        <servlet-class>com.neu.edu.servlet.MovieServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>AddMovieServlet</servlet-name>
+        <servlet-class>com.neu.edu.servlet.AddMovieServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MovieServlet</servlet-name>
+        <url-pattern>/movieServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AddMovieServlet</servlet-name>
+        <url-pattern>/addMovieServlet</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+<security-constraint>
+  <web-resource-collection>
+      <web-resource-name>Testing declarative web security</web-resource-name>
+      <url-pattern>/</url-pattern>
+  </web-resource-collection>
+  <auth-constraint>
+      <role-name>tomcat</role-name>
+  </auth-constraint>
+</security-constraint>
+
+<login-config>
+  <auth-method>BASIC</auth-method>
+</login-config>
+</web-app>
+
