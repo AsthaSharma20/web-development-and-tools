@@ -1,0 +1,38 @@
+                                                  Job Application Portal
+ Summary:
+The Job Application Web Portal facilitates job seekers to view jobs posted by hiring
+managers/recruiters and apply for them.
+The hiring managers can post and manage jobs and view the applications for the job posted.
+They can also update the status of the applicant’s application like selected for interview, not
+selected etc. and send status via emailing the job seeker.
+The website facilitates account creation for job seekers and hiring managers for better
+management and ease of use.
+The job seekers can also view their list of applied jobs.
+
+Functionalities:
+• Account creation for job seekers and job posters
+• Posting jobs done by recruiter
+• Recruiters can also update and delete jobs
+• Job Seekers can view listed jobs and apply for them
+• Job Seekers can login and check their dashboard to see list of jobs applied
+• Job Poster/recruiter can check list of applications received for the jobs posted by
+them on their respective dashboards
+• Job Posters can view Resume of Job Seekers who applied in PDF format
+• Job Posters can update the job applicants about status of job application by
+sending a rejection or selection email to them
+
+Summary of Technologies used:
+Spring MVC, Hibernate, jsp, AbstractPdfViewer, javax.mail
+
+Roles:
+Job Seeker
+1. Job Seekers can view listed jobs and apply for them
+2. Job Seekers can login and check their dashboard to see list of jobs applied
+
+Job Poster/Recruiter1. Posting jobs done by recruiter
+2. Recruiters can also update and delete jobs
+3. Job Poster/recruiter can check list of applications received for the jobs posted by them
+on their respective dashboards
+4. Job Posters can view Resume of Job Seekers who applied in PDF format
+5. Job Posters can update the job applicants about status of job application by sending a
+rejection or selection email to them
