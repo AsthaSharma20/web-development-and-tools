@@ -1,0 +1,3 @@
+Searching Movies done by MovieId as the Hibernate Session objects’s get method requires Serializable ID (which is basically the PK in the DB, but SerializableID in Java). 
+Used a Spring Validator to validate the fields. 
+Used SimpleFormController and Hibernate.
