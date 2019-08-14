@@ -1,0 +1,13 @@
+<web-app>
+	<servlet>
+		<servlet-name>RequestHeader</servlet-name>
+		<servlet-class>RequestHeader</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>RequestHeader</servlet-name>
+		<url-pattern>/requestHeader</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+	</welcome-file-list>
+</web-app>
