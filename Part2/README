@@ -1,0 +1,3 @@
+A servlet that displays request headers using:
+Enumeration getHeaderNames()
+Enumeration getHeaders(String name)
