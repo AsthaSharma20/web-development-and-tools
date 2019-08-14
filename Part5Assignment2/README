@@ -1,0 +1,3 @@
+JSP page initially displays a FORM having a textbox for the user to enter the name of the CSV file. This form will be submitted to a a
+servlet that will read the name of the file, and connect to the CSV file using CsvJdbc. Once the connection is established, the Servlet
+will get the data from the CSV file, and print on the browser
