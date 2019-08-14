@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/WEB-INF/jsp/success.jsp</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/WEB-INF/jsp/searchmovie.jsp</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/src/java/com/neu/controller/RedirectController.java</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/WEB-INF/jsp/addmovie.jsp</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/src/java/com/neu/controller/AddValidator.java</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/src/java/com/neu/pojo/Movie.java</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/src/java/com/neu/dao/AddMovieDao.java</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/WEB-INF/jsp/error.jsp</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/WEB-INF/web.xml</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/src/java/com/neu/controller/SearchController.java</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/src/java/com/neu/controller/AddMovieController.java</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/WEB-INF/jsp/home.jsp</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/src/java/com/neu/controller/SearchValidate.java</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/WEB-INF/jsp/results.jsp</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/src/java/hibernate.cfg.xml</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/redirect.jsp</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/Users/asthasharma/Downloads/Hw5Part6/src/java/movie.xml</file>
+        </group>
+    </open-files>
+</project-private>
